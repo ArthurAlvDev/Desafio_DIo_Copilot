@@ -1,5 +1,6 @@
 # Desafio_DIo_Copilot
 Análise de Imagem 1 - Torcedores Calma
+
 ![calma-torcedor](https://github.com/user-attachments/assets/32fb5973-38e7-408a-a8e2-44f8b6464d8b)
 A imagem mostra um painel eletrônico com o texto “1º CAMPEÃO SUL AMERICANO INVICTO” e abaixo “Torcedores calma”. O painel parece estar em um local ao ar livre, possivelmente relacionado a um evento esportivo, dado a referência a um campeão sul-americano e uma mensagem direcionada aos torcedores. Há também um logotipo no lado esquerdo do texto, que parece estar relacionado a um time esportivo, e um símbolo de raio no lado direito.
 
